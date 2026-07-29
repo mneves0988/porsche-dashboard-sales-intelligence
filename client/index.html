@@ -15,10 +15,12 @@
   <body>
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
+    <% if (process.env.VITE_ANALYTICS_ENDPOINT && process.env.VITE_ANALYTICS_WEBSITE_ID) { %>
     <script
       defer
-      src="%VITE_ANALYTICS_ENDPOINT%/umami"
-      data-website-id="%VITE_ANALYTICS_WEBSITE_ID%"></script>
+      src="<%= process.env.VITE_ANALYTICS_ENDPOINT %>/umami"
+      data-website-id="<%= process.env.VITE_ANALYTICS_WEBSITE_ID %>"></script>
+    <% } %>
   </body>
 
 </html>
