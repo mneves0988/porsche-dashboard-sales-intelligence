@@ -1,0 +1,34 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "https://7f0548f6b28a1758d9bf7be630d36cb4.artifacts.cloudflare.net/git/prod/g6ZV9wV6SNNvk6F5nXLk4h.git",
+    "expiration": "2026-07-28T04:13:11.938Z",
+    "token": "art_v1_0cc2f9d12aefb2cbb9f61b82797d9e54dc0a5913?expires=1785211991",
+    "backend": "GIT_BACKEND_ARTIFACTS"
+  },
+  "name": "porsche-dashboard-v2",
+  "path": "/home/ubuntu/porsche-dashboard-v2",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "JwHv4LjVkjpJtuQ5NQyhk7",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "bavnFjcFU43mbDryAYdodV",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Matheus Neves",
+    "OWNER_OPEN_ID": "TjKRN5YZ5N3CFCxAS9HBX8",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "17327e28-6760-498a-96a0-6ad2522dd66d",
+    "VITE_APP_ID": "g6ZV9wV6SNNvk6F5nXLk4h",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "Porsche Sales Intelligence",
+    "VITE_FRONTEND_FORGE_API_KEY": "6A42umaKekzjW7jyQnQiDU",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
