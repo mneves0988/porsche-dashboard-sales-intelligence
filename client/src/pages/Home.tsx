@@ -13,10 +13,10 @@ import { Button } from "@/components/ui/button";
 import { CalendarIcon, X } from "lucide-react";
 import { format, parseISO } from "date-fns";
 
-const LOGO = "/manus-storage/logo_427673ed.png";
-const HEADER_IMG = "/manus-storage/header_4d825a6d.jpg";
-const SECAO1_IMG = "/manus-storage/secao_89bfffd1.jpg";
-const SECAO2_IMG = "/manus-storage/secao2_686f3189.jpg";
+const LOGO = "/manus-storage/logo_427673ed.svg";
+const HEADER_IMG = "/manus-storage/header_4d825a6d.svg";
+const SECAO1_IMG = "/manus-storage/secao_89bfffd1.svg";
+const SECAO2_IMG = "/manus-storage/secao2_686f3189.svg";
 
 const FAMILY_COLORS: Record<string, string> = {
   "911": "#da291c", "Taycan": "#c0a060", "Cayenne": "#4a90a4",
