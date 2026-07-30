@@ -1,0 +1,2390 @@
+{
+  "records": [
+    {
+      "sale_id": "6",
+      "SaleDate": "INVALID",
+      "customer_name": "Michael Adams",
+      "Model": "718 Cayman",
+      "ModelYear": "2022.0",
+      "Price": "79500.0",
+      "Mileage": "9800.0",
+      "PayMethod": "Credit Card",
+      "City": "Boston",
+      "State": "MA",
+      "salesperson": "kevin",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "7",
+      "SaleDate": "2024-03-14",
+      "customer_name": "SOPHIA Miller",
+      "Model": "911 Turbo S",
+      "ModelYear": "2024.0",
+      "Price": "235000.0",
+      "Mileage": "1200.0",
+      "PayMethod": "Wire Transfer",
+      "City": "Seattle",
+      "State": "WA",
+      "salesperson": "AMANDA scott",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "8",
+      "SaleDate": "2024-04-18",
+      "customer_name": "Daniel-Jones",
+      "Model": "Cayenne Coupe",
+      "ModelYear": "2023.0",
+      "Price": "112750.0",
+      "Mileage": "6400.0",
+      "PayMethod": "Financing",
+      "City": "Austin",
+      "State": "TX",
+      "salesperson": "Brian Hall",
+      "Status": "In Transit"
+    },
+    {
+      "sale_id": "9",
+      "SaleDate": "INVALID",
+      "customer_name": "Olivia Brown",
+      "Model": "Macan S",
+      "ModelYear": "2021.0",
+      "Price": "68900.0",
+      "Mileage": "28.0",
+      "PayMethod": "Cash",
+      "City": "Denver",
+      "State": "CO",
+      "salesperson": "jessica",
+      "Status": "Pending"
+    },
+    {
+      "sale_id": "10",
+      "SaleDate": "2024-05-22",
+      "customer_name": "Ethan Wilson",
+      "Model": "Taycan 4S",
+      "ModelYear": "2024.0",
+      "Price": "121000.0",
+      "Mileage": "0.0",
+      "PayMethod": "Bank Transfer",
+      "City": "Los Angeles",
+      "State": "CA",
+      "salesperson": "Thomas King",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "11",
+      "SaleDate": "2024-08-06",
+      "customer_name": "Ava Martinez",
+      "Model": "Panamera 4",
+      "ModelYear": "2023.0",
+      "Price": "104500.0",
+      "Mileage": "14500.0",
+      "PayMethod": "Credit Card",
+      "City": "Miami",
+      "State": "FL",
+      "salesperson": "LISA ray",
+      "Status": "Cancelled"
+    },
+    {
+      "sale_id": "12",
+      "SaleDate": "2024-07-11",
+      "customer_name": "Noah Davis",
+      "Model": "911 Carrera S",
+      "ModelYear": "2020.0",
+      "Price": "96300.0",
+      "Mileage": "41000.0",
+      "PayMethod": "Lease",
+      "City": "New York",
+      "State": "NY",
+      "salesperson": "Mark Evans",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "13",
+      "SaleDate": "INVALID",
+      "customer_name": "Isabella Garcia",
+      "Model": "Cayenne E-Hybrid",
+      "ModelYear": "2022.0",
+      "Price": "89.75",
+      "Mileage": "11744.0",
+      "PayMethod": "Bank Wire",
+      "City": "San Diego",
+      "State": "CA",
+      "salesperson": "nancy reed",
+      "Status": "Pending Approval"
+    },
+    {
+      "sale_id": "14",
+      "SaleDate": "2024-08-19",
+      "customer_name": "Liam Rodriguez",
+      "Model": "718 Boxster",
+      "ModelYear": "2021.0",
+      "Price": "73500.0",
+      "Mileage": "22300.0",
+      "PayMethod": "Debit Card",
+      "City": "Chicago",
+      "State": "IL",
+      "salesperson": "George Bell",
+      "Status": "Shipped"
+    },
+    {
+      "sale_id": "15",
+      "SaleDate": "2024-09-02",
+      "customer_name": "Mia Hernandez",
+      "Model": "Macan GTS",
+      "ModelYear": "2024.0",
+      "Price": "95000.0",
+      "Mileage": "3500.0",
+      "PayMethod": "Financing",
+      "City": "Phoenix",
+      "State": "AZ",
+      "salesperson": "Helen Brooks",
+      "Status": "In Transit"
+    },
+    {
+      "sale_id": "16",
+      "SaleDate": "2024-09-17",
+      "customer_name": "James Lopez",
+      "Model": "Taycan Turbo",
+      "ModelYear": "2023.0",
+      "Price": "153200.5",
+      "Mileage": "11.0",
+      "PayMethod": "Ach Payment",
+      "City": "Dallas",
+      "State": "TX",
+      "salesperson": "samuel price",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "17",
+      "SaleDate": "INVALID",
+      "customer_name": "Charlotte Young",
+      "Model": "911 GT3",
+      "ModelYear": "2024.0",
+      "Price": "241000.0",
+      "Mileage": "750.0",
+      "PayMethod": "Wiretransfer",
+      "City": "Las Vegas",
+      "State": "NV",
+      "salesperson": "PETER Ford",
+      "Status": "Pending"
+    },
+    {
+      "sale_id": "18",
+      "SaleDate": "2024-05-11",
+      "customer_name": "Benjamin Allen",
+      "Model": "Panamera Turbo S",
+      "ModelYear": "2022.0",
+      "Price": "132000.0",
+      "Mileage": "19250.0",
+      "PayMethod": "Cash",
+      "City": "San Jose",
+      "State": "CA",
+      "salesperson": "Angela Green",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "19",
+      "SaleDate": "2024-12-12",
+      "customer_name": "Amelia King",
+      "Model": "Cayenne Turbo GT",
+      "ModelYear": "2024.0",
+      "Price": "188000.0",
+      "Mileage": "2100.0",
+      "PayMethod": "Crypto Payment",
+      "City": "Houston",
+      "State": "TX",
+      "salesperson": "Victor Stone",
+      "Status": "Awaiting Delivery"
+    },
+    {
+      "sale_id": "20",
+      "SaleDate": "2024-12-25",
+      "customer_name": "Lucas Wright",
+      "Model": "911 Carrera Cabriolet",
+      "ModelYear": "2023.0",
+      "Price": "127800.0",
+      "Mileage": "12000.0",
+      "PayMethod": "Creditcard",
+      "City": "Atlanta",
+      "State": "GA",
+      "salesperson": "rachel turner",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "21",
+      "SaleDate": "2025-01-06",
+      "customer_name": "Harper Scott",
+      "Model": "Macan",
+      "ModelYear": "2021.0",
+      "Price": "58900.0",
+      "Mileage": "33700.0",
+      "PayMethod": "Bank Transfer",
+      "City": "Orlando",
+      "State": "FL",
+      "salesperson": "Chris Moore",
+      "Status": "Pending"
+    },
+    {
+      "sale_id": "22",
+      "SaleDate": "INVALID",
+      "customer_name": "Henry Torres",
+      "Model": "718 Spyder RS",
+      "ModelYear": "2024.0",
+      "Price": "164000.0",
+      "Mileage": "900.0",
+      "PayMethod": "Finance",
+      "City": "Portland",
+      "State": "OR",
+      "salesperson": "LAURA Hill",
+      "Status": "In Transit"
+    },
+    {
+      "sale_id": "23",
+      "SaleDate": "2025-02-14",
+      "customer_name": "Evelyn Nguyen",
+      "Model": "Taycan Cross Turismo",
+      "ModelYear": "2023.0",
+      "Price": "118500.0",
+      "Mileage": "7800.0",
+      "PayMethod": "Wire",
+      "City": "Charlotte",
+      "State": "NC",
+      "salesperson": "Martin Young",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "24",
+      "SaleDate": "INVALID",
+      "customer_name": "Alexander Flores",
+      "Model": "Cayenne S",
+      "ModelYear": "2022.0",
+      "Price": "91300.0",
+      "Mileage": "16000.0",
+      "PayMethod": "Credit Card Payment",
+      "City": "Nashville",
+      "State": "TN",
+      "salesperson": "Diana Cooper",
+      "Status": "Pending"
+    },
+    {
+      "sale_id": "25",
+      "SaleDate": "2025-03-21",
+      "customer_name": "Abigail Carter",
+      "Model": "911 Targa 4S",
+      "ModelYear": "2024.0",
+      "Price": "158750.0",
+      "Mileage": "2500.0",
+      "PayMethod": "Leasing",
+      "City": "Minneapolis",
+      "State": "MN",
+      "salesperson": "Steve Gray",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "26",
+      "SaleDate": "2025-03-28",
+      "customer_name": "Jack Mitchell",
+      "Model": "Panamera",
+      "ModelYear": "2020.0",
+      "Price": "72000.0",
+      "Mileage": "49000.0",
+      "PayMethod": "Bank_Transfer",
+      "City": "Philadelphia",
+      "State": "PA",
+      "salesperson": "Olivia Ross",
+      "Status": "Cancelled"
+    },
+    {
+      "sale_id": "27",
+      "SaleDate": "2025-04-09",
+      "customer_name": "Emily Perez",
+      "Model": "Macan Electric",
+      "ModelYear": "2025.0",
+      "Price": "86500.0",
+      "Mileage": "0.0",
+      "PayMethod": "Wire Transfer",
+      "City": "San Antonio",
+      "State": "TX",
+      "salesperson": "Patrick Wood",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "28",
+      "SaleDate": "INVALID",
+      "customer_name": "William Roberts",
+      "Model": "911 Dakar",
+      "ModelYear": "2024.0",
+      "Price": "270000.0",
+      "Mileage": "1050.0",
+      "PayMethod": "Cash Payment",
+      "City": "Salt Lake City",
+      "State": "UT",
+      "salesperson": "Karen Diaz",
+      "Status": "Awaiting Pickup"
+    },
+    {
+      "sale_id": "29",
+      "SaleDate": "2025-05-12",
+      "customer_name": "Sofia Turner",
+      "Model": "Taycan GTS",
+      "ModelYear": "2023.0",
+      "Price": "139000.0",
+      "Mileage": "6250.0",
+      "PayMethod": "Financing",
+      "City": "Raleigh",
+      "State": "NC",
+      "salesperson": "Justin Cox",
+      "Status": "In Transit"
+    },
+    {
+      "sale_id": "30",
+      "SaleDate": "2025-06-18",
+      "customer_name": "Mason Phillips",
+      "Model": "Cayenne",
+      "ModelYear": "2021.0",
+      "Price": "76800.0",
+      "Mileage": "38400.0",
+      "PayMethod": "Credit",
+      "City": "Detroit",
+      "State": "MI",
+      "salesperson": "Betty Ward",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "31",
+      "SaleDate": "INVALID",
+      "customer_name": "Ella Campbell",
+      "Model": "718 Cayman GT4 RS",
+      "ModelYear": "2024.0",
+      "Price": "173600.0",
+      "Mileage": "400.0",
+      "PayMethod": "Wire Transfer",
+      "City": "Columbus",
+      "State": "OH",
+      "salesperson": "Gary Reed",
+      "Status": "Pending"
+    },
+    {
+      "sale_id": "32",
+      "SaleDate": "2025-07-07",
+      "customer_name": "Logan Parker",
+      "Model": "911 Carrera GTS",
+      "ModelYear": "2022.0",
+      "Price": "119900.0",
+      "Mileage": "13600.0",
+      "PayMethod": "Cash Payment",
+      "City": "Indianapolis",
+      "State": "IN",
+      "salesperson": "maria foster",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "33",
+      "SaleDate": "2025-07-22",
+      "customer_name": "Grace Evans",
+      "Model": "Panamera 4 E-Hybrid",
+      "ModelYear": "2023.0",
+      "Price": "109250.0",
+      "Mileage": "8900.0",
+      "PayMethod": "Lease Plan",
+      "City": "Fort Worth",
+      "State": "TX",
+      "salesperson": "Harold Bennett",
+      "Status": "In Transit"
+    },
+    {
+      "sale_id": "34",
+      "SaleDate": "2025-08-14",
+      "customer_name": "Jacob Edwards",
+      "Model": "Macan T",
+      "ModelYear": "2022.0",
+      "Price": "82000.0",
+      "Mileage": "21750.0",
+      "PayMethod": "Bank Wire",
+      "City": "Jacksonville",
+      "State": "FL",
+      "salesperson": "Teresa Cook",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "35",
+      "SaleDate": "2025-09-01",
+      "customer_name": "Victoria Collins",
+      "Model": "Taycan Turbo S",
+      "ModelYear": "2025.0",
+      "Price": "214000.0",
+      "Mileage": "0.0",
+      "PayMethod": "Crypto",
+      "City": "San Diego",
+      "State": "CA",
+      "salesperson": "Frank Morgan",
+      "Status": "Pending Review"
+    },
+    {
+      "sale_id": "36",
+      "SaleDate": "INVALID",
+      "customer_name": "Andrew Simmons",
+      "Model": "911 Carrera",
+      "ModelYear": "2024.0",
+      "Price": "124500.0",
+      "Mileage": "4800.0",
+      "PayMethod": "Credit Card",
+      "City": "Tampa",
+      "State": "FL",
+      "salesperson": "natalie",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "37",
+      "SaleDate": "2025-09-18",
+      "customer_name": "Chloe Bennett",
+      "Model": "Cayenne S",
+      "ModelYear": "2023.0",
+      "Price": "98200.0",
+      "Mileage": "12200.0",
+      "PayMethod": "Bank Transfer",
+      "City": "Sacramento",
+      "State": "CA",
+      "salesperson": "ERIC woods",
+      "Status": "Pending"
+    },
+    {
+      "sale_id": "38",
+      "SaleDate": "2025-10-04",
+      "customer_name": "Ryan-Cooper",
+      "Model": "Macan",
+      "ModelYear": "2022.0",
+      "Price": "67500.0",
+      "Mileage": "24100.0",
+      "PayMethod": "Financing",
+      "City": "Cleveland",
+      "State": "OH",
+      "salesperson": "Patricia Fox",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "39",
+      "SaleDate": "2025-10-12",
+      "customer_name": "Hannah Reed",
+      "Model": "Taycan",
+      "ModelYear": "2025.0",
+      "Price": "116900.0",
+      "Mileage": "0.0",
+      "PayMethod": "Wire Transfer",
+      "City": "Milwaukee",
+      "State": "WI",
+      "salesperson": "alan price",
+      "Status": "In Transit"
+    },
+    {
+      "sale_id": "40",
+      "SaleDate": "2025-10-29",
+      "customer_name": "Dylan Parker",
+      "Model": "Panamera 4S",
+      "ModelYear": "2024.0",
+      "Price": "112000.0",
+      "Mileage": "95.0",
+      "PayMethod": "Cash Payment",
+      "City": "Kansas City",
+      "State": "MO",
+      "salesperson": "Sandra Hill",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "41",
+      "SaleDate": "2025-02-11",
+      "customer_name": "Lily Coleman",
+      "Model": "718 Boxster",
+      "ModelYear": "2021.0",
+      "Price": "74000.0",
+      "Mileage": "31000.0",
+      "PayMethod": "Debit Card",
+      "City": "Omaha",
+      "State": "NE",
+      "salesperson": "Victor Lee",
+      "Status": "Cancelled"
+    },
+    {
+      "sale_id": "42",
+      "SaleDate": "2025-11-16",
+      "customer_name": "Nathan Hughes",
+      "Model": "911 Turbo",
+      "ModelYear": "2024.0",
+      "Price": "198300.0",
+      "Mileage": "2400.0",
+      "PayMethod": "Wire Transfer",
+      "City": "Albuquerque",
+      "State": "NM",
+      "salesperson": "monica",
+      "Status": "Awaiting Delivery"
+    },
+    {
+      "sale_id": "43",
+      "SaleDate": "INVALID",
+      "customer_name": "Zoe Foster",
+      "Model": "Cayenne Coupe",
+      "ModelYear": "2023.0",
+      "Price": "103.75",
+      "Mileage": "6773.0",
+      "PayMethod": "Bank Wire",
+      "City": "Tucson",
+      "State": "AZ",
+      "salesperson": "Gregory Adams",
+      "Status": "Pending Approval"
+    },
+    {
+      "sale_id": "44",
+      "SaleDate": "INVALID",
+      "customer_name": "Caleb Ward",
+      "Model": "Macan GTS",
+      "ModelYear": "2024.0",
+      "Price": "93600.0",
+      "Mileage": "5800.0",
+      "PayMethod": "Financing",
+      "City": "Fresno",
+      "State": "CA",
+      "salesperson": "Laura West",
+      "Status": "Shipped"
+    },
+    {
+      "sale_id": "45",
+      "SaleDate": "2025-12-07",
+      "customer_name": "Stella Brooks",
+      "Model": "Taycan 4S",
+      "ModelYear": "2025.0",
+      "Price": "129000.0",
+      "Mileage": "0.0",
+      "PayMethod": "Ach Payment",
+      "City": "Virginia Beach",
+      "State": "VA",
+      "salesperson": "Henry King",
+      "Status": "In Transit"
+    },
+    {
+      "sale_id": "46",
+      "SaleDate": "2025-12-22",
+      "customer_name": "Owen Bryant",
+      "Model": "Panamera Turbo",
+      "ModelYear": "2022.0",
+      "Price": "136000.0",
+      "Mileage": "18400.0",
+      "PayMethod": "Creditcard",
+      "City": "Colorado Springs",
+      "State": "CO",
+      "salesperson": "amber clark",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "47",
+      "SaleDate": "INVALID",
+      "customer_name": "Nora Simmons",
+      "Model": "911 GT3 RS",
+      "ModelYear": "2024.0",
+      "Price": "286500.0",
+      "Mileage": "700.0",
+      "PayMethod": "Wiretransfer",
+      "City": "Arlington",
+      "State": "TX",
+      "salesperson": "PETER Lane",
+      "Status": "Pending"
+    },
+    {
+      "sale_id": "48",
+      "SaleDate": "2026-01-08",
+      "customer_name": "Isaac Butler",
+      "Model": "Cayenne E-Hybrid",
+      "ModelYear": "2023.0",
+      "Price": "92800.0",
+      "Mileage": "15000.0",
+      "PayMethod": "Lease",
+      "City": "Bakersfield",
+      "State": "CA",
+      "salesperson": "Grace Morris",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "49",
+      "SaleDate": "2026-01-15",
+      "customer_name": "Leah Henderson",
+      "Model": "Macan T",
+      "ModelYear": "2022.0",
+      "Price": "72400.0",
+      "Mileage": "19750.0",
+      "PayMethod": "Cash",
+      "City": "Mesa",
+      "State": "AZ",
+      "salesperson": "Kyle Perry",
+      "Status": "Awaiting Pickup"
+    },
+    {
+      "sale_id": "50",
+      "SaleDate": "2026-01-28",
+      "customer_name": "Christian Bailey",
+      "Model": "Taycan Turbo",
+      "ModelYear": "2025.0",
+      "Price": "158500.0",
+      "Mileage": "3200.0",
+      "PayMethod": "Crypto Payment",
+      "City": "Atlanta",
+      "State": "GA",
+      "salesperson": "megan reed",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "51",
+      "SaleDate": "2026-02-03",
+      "customer_name": "Audrey Russell",
+      "Model": "718 Cayman",
+      "ModelYear": "2021.0",
+      "Price": "69900.0",
+      "Mileage": "27600.0",
+      "PayMethod": "Bank Transfer",
+      "City": "Long Beach",
+      "State": "CA",
+      "salesperson": "Carl Simmons",
+      "Status": "Pending"
+    },
+    {
+      "sale_id": "52",
+      "SaleDate": "INVALID",
+      "customer_name": "Hunter Griffin",
+      "Model": "911 Targa 4",
+      "ModelYear": "2024.0",
+      "Price": "141250.0",
+      "Mileage": "2100.0",
+      "PayMethod": "Finance",
+      "City": "Oakland",
+      "State": "CA",
+      "salesperson": "LINDA cole",
+      "Status": "In Transit"
+    },
+    {
+      "sale_id": "53",
+      "SaleDate": "2026-02-19",
+      "customer_name": "Scarlett Diaz",
+      "Model": "Panamera",
+      "ModelYear": "2020.0",
+      "Price": "71500.0",
+      "Mileage": "52000.0",
+      "PayMethod": "Wire",
+      "City": "Tulsa",
+      "State": "OK",
+      "salesperson": "Martin Brooks",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "54",
+      "SaleDate": "2026-02-25",
+      "customer_name": "Eli Jenkins",
+      "Model": "Cayenne Turbo",
+      "ModelYear": "2023.0",
+      "Price": "146800.0",
+      "Mileage": "11300.0",
+      "PayMethod": "Credit Card Payment",
+      "City": "Wichita",
+      "State": "KS",
+      "salesperson": "Diana Long",
+      "Status": "Pending"
+    },
+    {
+      "sale_id": "55",
+      "SaleDate": "2026-03-01",
+      "customer_name": "Madison Powell",
+      "Model": "Macan Electric",
+      "ModelYear": "2025.0",
+      "Price": "89700.0",
+      "Mileage": "0.0",
+      "PayMethod": "Leasing",
+      "City": "New Orleans",
+      "State": "LA",
+      "salesperson": "Steve Ross",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "56",
+      "SaleDate": "2026-03-14",
+      "customer_name": "Adrian Sanders",
+      "Model": "911 Carrera S",
+      "ModelYear": "2022.0",
+      "Price": "104600.0",
+      "Mileage": "15900.0",
+      "PayMethod": "Bank_Transfer",
+      "City": "Honolulu",
+      "State": "HI",
+      "salesperson": "Olivia Cruz",
+      "Status": "Cancelled"
+    },
+    {
+      "sale_id": "57",
+      "SaleDate": "INVALID",
+      "customer_name": "Penelope Barnes",
+      "Model": "Taycan GTS",
+      "ModelYear": "2024.0",
+      "Price": "142000.0",
+      "Mileage": "6600.0",
+      "PayMethod": "Wire Transfer",
+      "City": "Anaheim",
+      "State": "CA",
+      "salesperson": "Patrick Wood",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "58",
+      "SaleDate": "2026-04-08",
+      "customer_name": "Nolan Fisher",
+      "Model": "Cayenne",
+      "ModelYear": "2021.0",
+      "Price": "78400.0",
+      "Mileage": "40250.0",
+      "PayMethod": "Cash",
+      "City": "Henderson",
+      "State": "NV",
+      "salesperson": "Karen Stone",
+      "Status": "Awaiting Review"
+    },
+    {
+      "sale_id": "59",
+      "SaleDate": "INVALID",
+      "customer_name": "Layla Marshall",
+      "Model": "718 Spyder RS",
+      "ModelYear": "2025.0",
+      "Price": "169000.0",
+      "Mileage": "850.0",
+      "PayMethod": "Financing",
+      "City": "Lexington",
+      "State": "KY",
+      "salesperson": "justin fox",
+      "Status": "In Transit"
+    },
+    {
+      "sale_id": "60",
+      "SaleDate": "2026-04-21",
+      "customer_name": "Gabriel Owens",
+      "Model": "911 Dakar",
+      "ModelYear": "2024.0",
+      "Price": "268900.0",
+      "Mileage": "1400.0",
+      "PayMethod": "Credit",
+      "City": "Riverside",
+      "State": "CA",
+      "salesperson": "Betty James",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "61",
+      "SaleDate": "2026-04-29",
+      "customer_name": "Victoria Hart",
+      "Model": "Panamera 4",
+      "ModelYear": "2023.0",
+      "Price": "101300.0",
+      "Mileage": "12700.0",
+      "PayMethod": "Wire Transfer",
+      "City": "Corpus Christi",
+      "State": "TX",
+      "salesperson": "Gary Price",
+      "Status": "Pending"
+    },
+    {
+      "sale_id": "62",
+      "SaleDate": "2026-05-05",
+      "customer_name": "Julian Stone",
+      "Model": "Macan S",
+      "ModelYear": "2021.0",
+      "Price": "66750.0",
+      "Mileage": "29800.0",
+      "PayMethod": "Cash Payment",
+      "City": "St. Louis",
+      "State": "MO",
+      "salesperson": "maria green",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "63",
+      "SaleDate": "2026-05-14",
+      "customer_name": "Brooklyn Webb",
+      "Model": "Taycan Cross Turismo",
+      "ModelYear": "2024.0",
+      "Price": "127900.0",
+      "Mileage": "7500.0",
+      "PayMethod": "Lease Plan",
+      "City": "Pittsburgh",
+      "State": "PA",
+      "salesperson": "Harold Young",
+      "Status": "In Transit"
+    },
+    {
+      "sale_id": "64",
+      "SaleDate": "2026-05-23",
+      "customer_name": "Aaron Kim",
+      "Model": "Cayenne Turbo GT",
+      "ModelYear": "2025.0",
+      "Price": "200000.0",
+      "Mileage": "1950.0",
+      "PayMethod": "Bank Wire",
+      "City": "Cincinnati",
+      "State": "OH",
+      "salesperson": "Teresa Ward",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "65",
+      "SaleDate": "2026-06-02",
+      "customer_name": "Claire Watson",
+      "Model": "911 Carrera Cabriolet",
+      "ModelYear": "2023.0",
+      "Price": "132000.0",
+      "Mileage": "8800.0",
+      "PayMethod": "Crypto",
+      "City": "Anchorage",
+      "State": "AK",
+      "salesperson": "Frank Reed",
+      "Status": "Pending Review"
+    },
+    {
+      "sale_id": "66",
+      "SaleDate": "2026-06-15",
+      "customer_name": "Sebastian Brooks",
+      "Model": "718 Cayman GT4 RS",
+      "ModelYear": "2024.0",
+      "Price": "176400.0",
+      "Mileage": "600.0",
+      "PayMethod": "Credit Card",
+      "City": "Plano",
+      "State": "TX",
+      "salesperson": "Angela Moore",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "67",
+      "SaleDate": "INVALID",
+      "customer_name": "Bella Ramirez",
+      "Model": "Panamera 4 E-Hybrid",
+      "ModelYear": "2022.0",
+      "Price": "108500.0",
+      "Mileage": "16200.0",
+      "PayMethod": "Bank Transfer",
+      "City": "Newark",
+      "State": "NJ",
+      "salesperson": "rachel west",
+      "Status": "Cancelled"
+    },
+    {
+      "sale_id": "68",
+      "SaleDate": "2026-07-07",
+      "customer_name": "Miles Peterson",
+      "Model": "Macan",
+      "ModelYear": "2021.0",
+      "Price": "59000.0",
+      "Mileage": "36000.0",
+      "PayMethod": "Financing",
+      "City": "Greensboro",
+      "State": "NC",
+      "salesperson": "Thomas Fox",
+      "Status": "Awaiting Delivery"
+    },
+    {
+      "sale_id": "69",
+      "SaleDate": "2026-07-20",
+      "customer_name": "Skylar Rogers",
+      "Model": "Taycan Turbo S",
+      "ModelYear": "2025.0",
+      "Price": "218000.0",
+      "Mileage": "0.0",
+      "PayMethod": "Wire Transfer",
+      "City": "Lincoln",
+      "State": "NE",
+      "salesperson": "LISA Dunn",
+      "Status": "Pending"
+    },
+    {
+      "sale_id": "70",
+      "SaleDate": "INVALID",
+      "customer_name": "Dominic Kelly",
+      "Model": "Cayenne S",
+      "ModelYear": "2024.0",
+      "Price": "99950.0",
+      "Mileage": "5300.0",
+      "PayMethod": "Debit Card",
+      "City": "Jersey City",
+      "State": "NJ",
+      "salesperson": "Brian Allen",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "71",
+      "SaleDate": "2026-04-08",
+      "customer_name": "Lucy Howard",
+      "Model": "911 Carrera GTS",
+      "ModelYear": "2024.0",
+      "Price": "121.75",
+      "Mileage": "5872.0",
+      "PayMethod": "Creditcard",
+      "City": "Chandler",
+      "State": "AZ",
+      "salesperson": "George Hall",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "72",
+      "SaleDate": "2026-08-18",
+      "customer_name": "Everett Cox",
+      "Model": "718 Boxster GTS",
+      "ModelYear": "2023.0",
+      "Price": "91500.0",
+      "Mileage": "13300.0",
+      "PayMethod": "Lease",
+      "City": "Reno",
+      "State": "NV",
+      "salesperson": "Helen King",
+      "Status": "Shipped"
+    },
+    {
+      "sale_id": "73",
+      "SaleDate": "2026-08-31",
+      "customer_name": "Maya Rivera",
+      "Model": "Panamera Turbo S",
+      "ModelYear": "2022.0",
+      "Price": "134000.0",
+      "Mileage": "20100.0",
+      "PayMethod": "Wire",
+      "City": "Buffalo",
+      "State": "NY",
+      "salesperson": "samuel price",
+      "Status": "In Transit"
+    },
+    {
+      "sale_id": "74",
+      "SaleDate": "2026-09-09",
+      "customer_name": "Connor Ward",
+      "Model": "Macan GTS",
+      "ModelYear": "2024.0",
+      "Price": "96800.0",
+      "Mileage": "0.0",
+      "PayMethod": "Ach Payment",
+      "City": "Durham",
+      "State": "NC",
+      "salesperson": "Peter Ford",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "75",
+      "SaleDate": "2026-09-17",
+      "customer_name": "Eliana Bell",
+      "Model": "Taycan 4S",
+      "ModelYear": "2025.0",
+      "Price": "131600.0",
+      "Mileage": "2900.0",
+      "PayMethod": "Bank Wire",
+      "City": "Laredo",
+      "State": "TX",
+      "salesperson": "Angela Green",
+      "Status": "Pending Approval"
+    },
+    {
+      "sale_id": "76",
+      "SaleDate": "2026-09-28",
+      "customer_name": "Cameron Murphy",
+      "Model": "Cayenne E-Hybrid",
+      "ModelYear": "2023.0",
+      "Price": "94300.0",
+      "Mileage": "13100.0",
+      "PayMethod": "Cash Payment",
+      "City": "Madison",
+      "State": "WI",
+      "salesperson": "Victor Stone",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "77",
+      "SaleDate": "2026-10-06",
+      "customer_name": "Ariana Cook",
+      "Model": "911 Turbo S",
+      "ModelYear": "2025.0",
+      "Price": "242000.0",
+      "Mileage": "1100.0",
+      "PayMethod": "Crypto",
+      "City": "Lubbock",
+      "State": "TX",
+      "salesperson": "Rachel Turner",
+      "Status": "Awaiting Pickup"
+    },
+    {
+      "sale_id": "78",
+      "SaleDate": "2026-10-16",
+      "customer_name": "Wesley Morgan",
+      "Model": "718 Cayman S",
+      "ModelYear": "2022.0",
+      "Price": "82750.0",
+      "Mileage": "22500.0",
+      "PayMethod": "Credit Card Payment",
+      "City": "Toledo",
+      "State": "OH",
+      "salesperson": "Chris Moore",
+      "Status": "Cancelled"
+    },
+    {
+      "sale_id": "79",
+      "SaleDate": "2026-10-29",
+      "customer_name": "Naomi Peterson",
+      "Model": "Macan Electric",
+      "ModelYear": "2026.0",
+      "Price": "91300.0",
+      "Mileage": "0.0",
+      "PayMethod": "Wire Transfer",
+      "City": "Irvine",
+      "State": "CA",
+      "salesperson": "LAURA Hill",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "80",
+      "SaleDate": "2026-11-03",
+      "customer_name": "Jason Perry",
+      "Model": "Panamera",
+      "ModelYear": "2021.0",
+      "Price": "79900.0",
+      "Mileage": "44800.0",
+      "PayMethod": "Finance",
+      "City": "Garland",
+      "State": "TX",
+      "salesperson": "Martin Young",
+      "Status": "Pending"
+    },
+    {
+      "sale_id": "81",
+      "SaleDate": "INVALID",
+      "customer_name": "Riley Flores",
+      "Model": "Cayenne Coupe",
+      "ModelYear": "2024.0",
+      "Price": "111000.0",
+      "Mileage": "6700.0",
+      "PayMethod": "Bank Transfer",
+      "City": "Irving",
+      "State": "TX",
+      "salesperson": "Diana Cooper",
+      "Status": "In Transit"
+    },
+    {
+      "sale_id": "82",
+      "SaleDate": "2026-12-11",
+      "customer_name": "Hazel Long",
+      "Model": "911 Targa 4S",
+      "ModelYear": "2023.0",
+      "Price": "156500.0",
+      "Mileage": "4200.0",
+      "PayMethod": "Cash Payment",
+      "City": "Chesapeake",
+      "State": "VA",
+      "salesperson": "Steve Gray",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "83",
+      "SaleDate": "2026-12-24",
+      "customer_name": "Easton Bailey",
+      "Model": "Taycan",
+      "ModelYear": "2025.0",
+      "Price": "119900.0",
+      "Mileage": "1250.0",
+      "PayMethod": "Leasing",
+      "City": "Scottsdale",
+      "State": "AZ",
+      "salesperson": "Olivia Ross",
+      "Status": "Pending"
+    },
+    {
+      "sale_id": "84",
+      "SaleDate": "INVALID",
+      "customer_name": "Aurora Cooper",
+      "Model": "Macan T",
+      "ModelYear": "2022.0",
+      "Price": "73200.0",
+      "Mileage": "18600.0",
+      "PayMethod": "Bank Wire",
+      "City": "Norfolk",
+      "State": "VA",
+      "salesperson": "Patrick Wood",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "85",
+      "SaleDate": "2026-12-28",
+      "customer_name": "Colton Richardson",
+      "Model": "911 GT3",
+      "ModelYear": "2024.0",
+      "Price": "224000.0",
+      "Mileage": "3000.0",
+      "PayMethod": "Wire Transfer",
+      "City": "Boise",
+      "State": "ID",
+      "salesperson": "Karen Diaz",
+      "Status": "Awaiting Delivery"
+    },
+    {
+      "sale_id": "86",
+      "SaleDate": "2027-01-15",
+      "customer_name": "Mason Stewart",
+      "Model": "911 Carrera",
+      "ModelYear": "2024.0",
+      "Price": "126900.0",
+      "Mileage": "7200.0",
+      "PayMethod": "Credit Card",
+      "City": "Orlando",
+      "State": "FL",
+      "salesperson": "kevin brown",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "87",
+      "SaleDate": "2027-01-29",
+      "customer_name": "Harper Reed",
+      "Model": "Cayenne",
+      "ModelYear": "2023.0",
+      "Price": "84500.0",
+      "Mileage": "21400.0",
+      "PayMethod": "Bank Transfer",
+      "City": "San Jose",
+      "State": "CA",
+      "salesperson": "AMANDA Lee",
+      "Status": "Pending"
+    },
+    {
+      "sale_id": "88",
+      "SaleDate": "2027-02-11",
+      "customer_name": "Tyler-Morris",
+      "Model": "Macan S",
+      "ModelYear": "2022.0",
+      "Price": "69800.0",
+      "Mileage": "26300.0",
+      "PayMethod": "Financing",
+      "City": "Tampa",
+      "State": "FL",
+      "salesperson": "Brian Hall",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "89",
+      "SaleDate": "INVALID",
+      "customer_name": "Natalie Brooks",
+      "Model": "Taycan 4S",
+      "ModelYear": "2025.0",
+      "Price": "132700.0",
+      "Mileage": "0.0",
+      "PayMethod": "Wire Transfer",
+      "City": "Denver",
+      "State": "CO",
+      "salesperson": "jessica white",
+      "Status": "In Transit"
+    },
+    {
+      "sale_id": "90",
+      "SaleDate": "2027-03-05",
+      "customer_name": "Brandon Parker",
+      "Model": "Panamera",
+      "ModelYear": "2021.0",
+      "Price": "81000.0",
+      "Mileage": "42.0",
+      "PayMethod": "Cash Payment",
+      "City": "Austin",
+      "State": "TX",
+      "salesperson": "Thomas King",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "91",
+      "SaleDate": "2027-03-18",
+      "customer_name": "Lauren Foster",
+      "Model": "718 Cayman",
+      "ModelYear": "2023.0",
+      "Price": "78900.0",
+      "Mileage": "17500.0",
+      "PayMethod": "Debit Card",
+      "City": "Seattle",
+      "State": "WA",
+      "salesperson": "Victor Lee",
+      "Status": "Cancelled"
+    },
+    {
+      "sale_id": "92",
+      "SaleDate": "2027-04-02",
+      "customer_name": "Adam Hughes",
+      "Model": "911 Turbo S",
+      "ModelYear": "2026.0",
+      "Price": "249300.0",
+      "Mileage": "900.0",
+      "PayMethod": "Wire Transfer",
+      "City": "Boston",
+      "State": "MA",
+      "salesperson": "monica green",
+      "Status": "Awaiting Delivery"
+    },
+    {
+      "sale_id": "93",
+      "SaleDate": "INVALID",
+      "customer_name": "Julia Coleman",
+      "Model": "Cayenne Coupe",
+      "ModelYear": "2024.0",
+      "Price": "108.75",
+      "Mileage": "5530.0",
+      "PayMethod": "Bank Wire",
+      "City": "Phoenix",
+      "State": "AZ",
+      "salesperson": "Gregory Adams",
+      "Status": "Pending Approval"
+    },
+    {
+      "sale_id": "94",
+      "SaleDate": "INVALID",
+      "customer_name": "Caleb Simmons",
+      "Model": "Macan Electric",
+      "ModelYear": "2026.0",
+      "Price": "92600.0",
+      "Mileage": "0.0",
+      "PayMethod": "Financing",
+      "City": "Chicago",
+      "State": "IL",
+      "salesperson": "Laura West",
+      "Status": "Shipped"
+    },
+    {
+      "sale_id": "95",
+      "SaleDate": "2027-05-12",
+      "customer_name": "Ariana Price",
+      "Model": "Taycan Turbo",
+      "ModelYear": "2025.0",
+      "Price": "164000.0",
+      "Mileage": "0.0",
+      "PayMethod": "Ach Payment",
+      "City": "Dallas",
+      "State": "TX",
+      "salesperson": "Henry King",
+      "Status": "In Transit"
+    },
+    {
+      "sale_id": "96",
+      "SaleDate": "2027-05-27",
+      "customer_name": "Owen Rivera",
+      "Model": "Panamera 4S",
+      "ModelYear": "2024.0",
+      "Price": "119000.0",
+      "Mileage": "13400.0",
+      "PayMethod": "Creditcard",
+      "City": "San Francisco",
+      "State": "CA",
+      "salesperson": "amber clark",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "97",
+      "SaleDate": "INVALID",
+      "customer_name": "Nora Bennett",
+      "Model": "911 GT3",
+      "ModelYear": "2026.0",
+      "Price": "232500.0",
+      "Mileage": "1700.0",
+      "PayMethod": "Wiretransfer",
+      "City": "Las Vegas",
+      "State": "NV",
+      "salesperson": "PETER Lane",
+      "Status": "Pending"
+    },
+    {
+      "sale_id": "98",
+      "SaleDate": "2027-06-18",
+      "customer_name": "Isaac Turner",
+      "Model": "Cayenne E-Hybrid",
+      "ModelYear": "2023.0",
+      "Price": "96800.0",
+      "Mileage": "4000.0",
+      "PayMethod": "Lease",
+      "City": "Charlotte",
+      "State": "NC",
+      "salesperson": "Grace Morris",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "99",
+      "SaleDate": "2027-07-03",
+      "customer_name": "Leah Scott",
+      "Model": "Macan T",
+      "ModelYear": "2022.0",
+      "Price": "74400.0",
+      "Mileage": "20750.0",
+      "PayMethod": "Cash",
+      "City": "Mesa",
+      "State": "AZ",
+      "salesperson": "Kyle Perry",
+      "Status": "Awaiting Pickup"
+    },
+    {
+      "sale_id": "100",
+      "SaleDate": "2027-07-22",
+      "customer_name": "Christian Bailey",
+      "Model": "Taycan GTS",
+      "ModelYear": "2025.0",
+      "Price": "148500.0",
+      "Mileage": "5200.0",
+      "PayMethod": "Crypto Payment",
+      "City": "Atlanta",
+      "State": "GA",
+      "salesperson": "megan reed",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "101",
+      "SaleDate": "2027-08-08",
+      "customer_name": "Audrey Russell",
+      "Model": "718 Boxster",
+      "ModelYear": "2021.0",
+      "Price": "71900.0",
+      "Mileage": "29600.0",
+      "PayMethod": "Bank Transfer",
+      "City": "Long Beach",
+      "State": "CA",
+      "salesperson": "Carl Simmons",
+      "Status": "Pending"
+    },
+    {
+      "sale_id": "102",
+      "SaleDate": "INVALID",
+      "customer_name": "Hunter Griffin",
+      "Model": "911 Targa 4",
+      "ModelYear": "2024.0",
+      "Price": "143250.0",
+      "Mileage": "3100.0",
+      "PayMethod": "Finance",
+      "City": "Oakland",
+      "State": "CA",
+      "salesperson": "LINDA cole",
+      "Status": "In Transit"
+    },
+    {
+      "sale_id": "103",
+      "SaleDate": "2027-09-19",
+      "customer_name": "Scarlett Diaz",
+      "Model": "Panamera Turbo",
+      "ModelYear": "2020.0",
+      "Price": "137500.0",
+      "Mileage": "48000.0",
+      "PayMethod": "Wire",
+      "City": "Tulsa",
+      "State": "OK",
+      "salesperson": "Martin Brooks",
+      "Status": "Delivered"
+    },
+    {
+      "sale_id": "104",
+      "SaleDate": "2027-09-25",
+      "customer_name": "Eli Jenkins",
+      "Model": "Cayenne Turbo GT",
+      "ModelYear": "2025.0",
+      "Price": "204800.0",
+      "Mileage": "3300.0",
+      "PayMethod": "Credit Card Payment",
+      "City": "Wichita",
+      "State": "KS",
+      "salesperson": "Diana Long",
+      "Status": "Pending"
+    },
+    {
+      "sale_id": "105",
+      "SaleDate": "2027-10-01",
+      "customer_name": "Madison Powell",
+      "Model": "911 Dakar",
+      "ModelYear": "2024.0",
+      "Price": "271700.0",
+      "Mileage": "1050.0",
+      "PayMethod": "Leasing",
+      "City": "New Orleans",
+      "State": "LA",
+      "salesperson": "Steve Ross",
+      "Status": "Delivered"
+    }
+  ],
+  "models": [
+    "718 Boxster",
+    "718 Boxster GTS",
+    "718 Cayman",
+    "718 Cayman GT4 RS",
+    "718 Cayman S",
+    "718 Spyder RS",
+    "911 Carrera",
+    "911 Carrera Cabriolet",
+    "911 Carrera GTS",
+    "911 Carrera S",
+    "911 Dakar",
+    "911 GT3",
+    "911 GT3 RS",
+    "911 Targa 4",
+    "911 Targa 4S",
+    "911 Turbo",
+    "911 Turbo S",
+    "Cayenne",
+    "Cayenne Coupe",
+    "Cayenne E-Hybrid",
+    "Cayenne S",
+    "Cayenne Turbo",
+    "Cayenne Turbo GT",
+    "Macan",
+    "Macan Electric",
+    "Macan GTS",
+    "Macan S",
+    "Macan T",
+    "Panamera",
+    "Panamera 4",
+    "Panamera 4 E-Hybrid",
+    "Panamera 4S",
+    "Panamera Turbo",
+    "Panamera Turbo S",
+    "Taycan",
+    "Taycan 4S",
+    "Taycan Cross Turismo",
+    "Taycan GTS",
+    "Taycan Turbo",
+    "Taycan Turbo S"
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "cities": [
+    "Albuquerque",
+    "Anaheim",
+    "Anchorage",
+    "Arlington",
+    "Atlanta",
+    "Austin",
+    "Bakersfield",
+    "Boise",
+    "Boston",
+    "Buffalo",
+    "Chandler",
+    "Charlotte",
+    "Chesapeake",
+    "Chicago",
+    "Cincinnati",
+    "Cleveland",
+    "Colorado Springs",
+    "Columbus",
+    "Corpus Christi",
+    "Dallas",
+    "Denver",
+    "Detroit",
+    "Durham",
+    "Fort Worth",
+    "Fresno",
+    "Garland",
+    "Greensboro",
+    "Henderson",
+    "Honolulu",
+    "Houston",
+    "Indianapolis",
+    "Irvine",
+    "Irving",
+    "Jacksonville",
+    "Jersey City",
+    "Kansas City",
+    "Laredo",
+    "Las Vegas",
+    "Lexington",
+    "Lincoln",
+    "Long Beach",
+    "Los Angeles",
+    "Lubbock",
+    "Madison",
+    "Mesa",
+    "Miami",
+    "Milwaukee",
+    "Minneapolis",
+    "Nashville",
+    "New Orleans",
+    "New York",
+    "Newark",
+    "Norfolk",
+    "Oakland",
+    "Omaha",
+    "Orlando",
+    "Philadelphia",
+    "Phoenix",
+    "Pittsburgh",
+    "Plano",
+    "Portland",
+    "Raleigh",
+    "Reno",
+    "Riverside",
+    "Sacramento",
+    "Salt Lake City",
+    "San Antonio",
+    "San Diego",
+    "San Francisco",
+    "San Jose",
+    "Scottsdale",
+    "Seattle",
+    "St. Louis",
+    "Tampa",
+    "Toledo",
+    "Tucson",
+    "Tulsa",
+    "Virginia Beach",
+    "Wichita"
+  ],
+  "pay_methods": [
+    "Ach Payment",
+    "Bank Transfer",
+    "Bank Wire",
+    "Bank_Transfer",
+    "Cash",
+    "Cash Payment",
+    "Credit",
+    "Credit Card",
+    "Credit Card Payment",
+    "Creditcard",
+    "Crypto",
+    "Crypto Payment",
+    "Debit Card",
+    "Finance",
+    "Financing",
+    "Lease",
+    "Lease Plan",
+    "Leasing",
+    "Wire",
+    "Wire Transfer",
+    "Wiretransfer"
+  ],
+  "states": [
+    "AK",
+    "AZ",
+    "CA",
+    "CO",
+    "FL",
+    "GA",
+    "HI",
+    "ID",
+    "IL",
+    "IN",
+    "KS",
+    "KY",
+    "LA",
+    "MA",
+    "MI",
+    "MN",
+    "MO",
+    "NC",
+    "NE",
+    "NJ",
+    "NM",
+    "NV",
+    "NY",
+    "OH",
+    "OK",
+    "OR",
+    "PA",
+    "TN",
+    "TX",
+    "UT",
+    "VA",
+    "WA",
+    "WI"
+  ],
+  "kpis": {
+    "total_sales": 310,
+    "total_revenue": 12404224.5,
+    "avg_ticket": 40013.63,
+    "unique_cities": 79,
+    "unique_states": 33,
+    "top_model": "Cayenne Coupe",
+    "top_city": "Atlanta",
+    "top_year": 2024,
+    "top_pay_method": "Wire Transfer"
+  },
+  "sales_by_model": {
+    "Cayenne Coupe": 4,
+    "Taycan 4S": 4,
+    "Cayenne E-Hybrid": 4,
+    "Panamera": 4,
+    "Macan Electric": 4,
+    "Macan T": 4,
+    "718 Cayman": 3,
+    "911 Turbo S": 3,
+    "Macan S": 3,
+    "718 Boxster": 3,
+    "Macan GTS": 3,
+    "Taycan Turbo": 3,
+    "911 GT3": 3,
+    "Cayenne Turbo GT": 3,
+    "Macan": 3,
+    "Cayenne S": 3,
+    "911 Dakar": 3,
+    "Taycan GTS": 3,
+    "Cayenne": 3,
+    "Panamera 4": 2,
+    "911 Carrera S": 2,
+    "Panamera Turbo S": 2,
+    "911 Carrera Cabriolet": 2,
+    "718 Spyder RS": 2,
+    "Taycan Cross Turismo": 2,
+    "911 Targa 4S": 2,
+    "718 Cayman GT4 RS": 2,
+    "911 Carrera GTS": 2,
+    "Panamera 4 E-Hybrid": 2,
+    "Taycan Turbo S": 2,
+    "911 Carrera": 2,
+    "Taycan": 2,
+    "Panamera 4S": 2,
+    "Panamera Turbo": 2,
+    "911 Targa 4": 2,
+    "911 Turbo": 1,
+    "911 GT3 RS": 1,
+    "Cayenne Turbo": 1,
+    "718 Boxster GTS": 1,
+    "718 Cayman S": 1
+  },
+  "sales_by_family": {
+    "nan": 210,
+    "911": 23,
+    "Cayenne": 18,
+    "Macan": 17,
+    "Taycan": 16,
+    "Panamera": 14,
+    "718": 12
+  },
+  "revenue_by_model": {
+    "718 Boxster": {
+      "revenue": 219400.0,
+      "count": 3
+    },
+    "718 Boxster GTS": {
+      "revenue": 91500.0,
+      "count": 1
+    },
+    "718 Cayman": {
+      "revenue": 228300.0,
+      "count": 3
+    },
+    "718 Cayman GT4 RS": {
+      "revenue": 350000.0,
+      "count": 2
+    },
+    "718 Cayman S": {
+      "revenue": 82750.0,
+      "count": 1
+    },
+    "718 Spyder RS": {
+      "revenue": 333000.0,
+      "count": 2
+    },
+    "911 Carrera": {
+      "revenue": 251400.0,
+      "count": 2
+    },
+    "911 Carrera Cabriolet": {
+      "revenue": 259800.0,
+      "count": 2
+    },
+    "911 Carrera GTS": {
+      "revenue": 120021.75,
+      "count": 2
+    },
+    "911 Carrera S": {
+      "revenue": 200900.0,
+      "count": 2
+    },
+    "911 Dakar": {
+      "revenue": 810600.0,
+      "count": 3
+    },
+    "911 GT3": {
+      "revenue": 697500.0,
+      "count": 3
+    },
+    "911 GT3 RS": {
+      "revenue": 286500.0,
+      "count": 1
+    },
+    "911 Targa 4": {
+      "revenue": 284500.0,
+      "count": 2
+    },
+    "911 Targa 4S": {
+      "revenue": 315250.0,
+      "count": 2
+    },
+    "911 Turbo": {
+      "revenue": 198300.0,
+      "count": 1
+    },
+    "911 Turbo S": {
+      "revenue": 726300.0,
+      "count": 3
+    },
+    "Cayenne": {
+      "revenue": 239700.0,
+      "count": 3
+    },
+    "Cayenne Coupe": {
+      "revenue": 223962.5,
+      "count": 4
+    },
+    "Cayenne E-Hybrid": {
+      "revenue": 283989.75,
+      "count": 4
+    },
+    "Cayenne S": {
+      "revenue": 289450.0,
+      "count": 3
+    },
+    "Cayenne Turbo": {
+      "revenue": 146800.0,
+      "count": 1
+    },
+    "Cayenne Turbo GT": {
+      "revenue": 592800.0,
+      "count": 3
+    },
+    "Macan": {
+      "revenue": 185400.0,
+      "count": 3
+    },
+    "Macan Electric": {
+      "revenue": 360100.0,
+      "count": 4
+    },
+    "Macan GTS": {
+      "revenue": 285400.0,
+      "count": 3
+    },
+    "Macan S": {
+      "revenue": 205450.0,
+      "count": 3
+    },
+    "Macan T": {
+      "revenue": 302000.0,
+      "count": 4
+    },
+    "Panamera": {
+      "revenue": 304400.0,
+      "count": 4
+    },
+    "Panamera 4": {
+      "revenue": 205800.0,
+      "count": 2
+    },
+    "Panamera 4 E-Hybrid": {
+      "revenue": 217750.0,
+      "count": 2
+    },
+    "Panamera 4S": {
+      "revenue": 231000.0,
+      "count": 2
+    },
+    "Panamera Turbo": {
+      "revenue": 273500.0,
+      "count": 2
+    },
+    "Panamera Turbo S": {
+      "revenue": 266000.0,
+      "count": 2
+    },
+    "Taycan": {
+      "revenue": 236800.0,
+      "count": 2
+    },
+    "Taycan 4S": {
+      "revenue": 514300.0,
+      "count": 4
+    },
+    "Taycan Cross Turismo": {
+      "revenue": 246400.0,
+      "count": 2
+    },
+    "Taycan GTS": {
+      "revenue": 429500.0,
+      "count": 3
+    },
+    "Taycan Turbo": {
+      "revenue": 475700.5,
+      "count": 3
+    },
+    "Taycan Turbo S": {
+      "revenue": 432000.0,
+      "count": 2
+    }
+  },
+  "revenue_by_family": {
+    "718": {
+      "revenue": 1304950.0,
+      "count": 12
+    },
+    "911": {
+      "revenue": 4151071.75,
+      "count": 23
+    },
+    "Cayenne": {
+      "revenue": 1776702.25,
+      "count": 18
+    },
+    "Macan": {
+      "revenue": 1338350.0,
+      "count": 17
+    },
+    "Panamera": {
+      "revenue": 1498450.0,
+      "count": 14
+    },
+    "Taycan": {
+      "revenue": 2334700.5,
+      "count": 16
+    },
+    "nan": {
+      "revenue": 0.0,
+      "count": 0
+    }
+  },
+  "sales_by_year": {
+    "2020": 4,
+    "2021": 12,
+    "2022": 16,
+    "2023": 19,
+    "2024": 29,
+    "2025": 16,
+    "2026": 4
+  },
+  "sales_by_pay": {
+    "Wire Transfer": 12,
+    "Financing": 9,
+    "Bank Transfer": 8,
+    "Bank Wire": 7,
+    "Cash Payment": 7,
+    "Credit Card": 5,
+    "Cash": 5,
+    "Lease": 4,
+    "Debit Card": 4,
+    "Ach Payment": 4,
+    "Creditcard": 4,
+    "Finance": 4,
+    "Wire": 4,
+    "Credit Card Payment": 4,
+    "Leasing": 4,
+    "Wiretransfer": 3,
+    "Crypto Payment": 3,
+    "Crypto": 3,
+    "Bank_Transfer": 2,
+    "Credit": 2,
+    "Lease Plan": 2
+  },
+  "top_cities_revenue": {
+    "Las Vegas": {
+      "revenue": 473500.0,
+      "count": 2
+    },
+    "Atlanta": {
+      "revenue": 434800.0,
+      "count": 3
+    },
+    "New Orleans": {
+      "revenue": 361400.0,
+      "count": 2
+    },
+    "Wichita": {
+      "revenue": 351600.0,
+      "count": 2
+    },
+    "Boston": {
+      "revenue": 328800.0,
+      "count": 2
+    },
+    "Dallas": {
+      "revenue": 317200.5,
+      "count": 2
+    },
+    "Seattle": {
+      "revenue": 313900.0,
+      "count": 2
+    },
+    "Arlington": {
+      "revenue": 286500.0,
+      "count": 1
+    },
+    "Oakland": {
+      "revenue": 284500.0,
+      "count": 2
+    },
+    "Salt Lake City": {
+      "revenue": 270000.0,
+      "count": 1
+    },
+    "Riverside": {
+      "revenue": 268900.0,
+      "count": 1
+    },
+    "Lubbock": {
+      "revenue": 242000.0,
+      "count": 1
+    },
+    "Boise": {
+      "revenue": 224000.0,
+      "count": 1
+    },
+    "Lincoln": {
+      "revenue": 218000.0,
+      "count": 1
+    },
+    "San Jose": {
+      "revenue": 216500.0,
+      "count": 2
+    }
+  },
+  "top_states": {
+    "CA": 16,
+    "TX": 14,
+    "AZ": 7,
+    "FL": 6,
+    "NC": 5,
+    "NV": 4,
+    "OH": 4,
+    "CO": 3,
+    "GA": 3,
+    "VA": 3,
+    "MA": 2,
+    "WA": 2,
+    "NY": 2,
+    "IL": 2,
+    "PA": 2
+  },
+  "status_distribution": {
+    "Delivered": 41,
+    "Pending": 17,
+    "In Transit": 15,
+    "Cancelled": 7,
+    "Awaiting Delivery": 5,
+    "Pending Approval": 4,
+    "Shipped": 4,
+    "Awaiting Pickup": 4,
+    "Pending Review": 2,
+    "Awaiting Review": 1
+  },
+  "models_by_city": {
+    "Albuquerque": {
+      "model": "911 Turbo",
+      "sales": 1,
+      "revenue": 198300.0
+    },
+    "Anaheim": {
+      "model": "Taycan GTS",
+      "sales": 1,
+      "revenue": 142000.0
+    },
+    "Anchorage": {
+      "model": "911 Carrera Cabriolet",
+      "sales": 1,
+      "revenue": 132000.0
+    },
+    "Arlington": {
+      "model": "911 GT3 RS",
+      "sales": 1,
+      "revenue": 286500.0
+    },
+    "Atlanta": {
+      "model": "911 Carrera Cabriolet",
+      "sales": 3,
+      "revenue": 434800.0
+    },
+    "Austin": {
+      "model": "Cayenne Coupe",
+      "sales": 2,
+      "revenue": 193750.0
+    },
+    "Bakersfield": {
+      "model": "Cayenne E-Hybrid",
+      "sales": 1,
+      "revenue": 92800.0
+    },
+    "Boise": {
+      "model": "911 GT3",
+      "sales": 1,
+      "revenue": 224000.0
+    },
+    "Boston": {
+      "model": "718 Cayman",
+      "sales": 2,
+      "revenue": 328800.0
+    },
+    "Buffalo": {
+      "model": "Panamera Turbo S",
+      "sales": 1,
+      "revenue": 134000.0
+    },
+    "Chandler": {
+      "model": "911 Carrera GTS",
+      "sales": 1,
+      "revenue": 121.75
+    },
+    "Charlotte": {
+      "model": "Taycan Cross Turismo",
+      "sales": 2,
+      "revenue": 215300.0
+    },
+    "Chesapeake": {
+      "model": "911 Targa 4S",
+      "sales": 1,
+      "revenue": 156500.0
+    },
+    "Chicago": {
+      "model": "718 Boxster",
+      "sales": 2,
+      "revenue": 166100.0
+    },
+    "Cincinnati": {
+      "model": "Cayenne Turbo GT",
+      "sales": 1,
+      "revenue": 200000.0
+    },
+    "Cleveland": {
+      "model": "Macan",
+      "sales": 1,
+      "revenue": 67500.0
+    },
+    "Colorado Springs": {
+      "model": "Panamera Turbo",
+      "sales": 1,
+      "revenue": 136000.0
+    },
+    "Columbus": {
+      "model": "718 Cayman GT4 RS",
+      "sales": 1,
+      "revenue": 173600.0
+    },
+    "Corpus Christi": {
+      "model": "Panamera 4",
+      "sales": 1,
+      "revenue": 101300.0
+    },
+    "Dallas": {
+      "model": "Taycan Turbo",
+      "sales": 2,
+      "revenue": 317200.5
+    },
+    "Denver": {
+      "model": "Macan S",
+      "sales": 2,
+      "revenue": 201600.0
+    },
+    "Detroit": {
+      "model": "Cayenne",
+      "sales": 1,
+      "revenue": 76800.0
+    },
+    "Durham": {
+      "model": "Macan GTS",
+      "sales": 1,
+      "revenue": 96800.0
+    },
+    "Fort Worth": {
+      "model": "Panamera 4 E-Hybrid",
+      "sales": 1,
+      "revenue": 109250.0
+    },
+    "Fresno": {
+      "model": "Macan GTS",
+      "sales": 1,
+      "revenue": 93600.0
+    },
+    "Garland": {
+      "model": "Panamera",
+      "sales": 1,
+      "revenue": 79900.0
+    },
+    "Greensboro": {
+      "model": "Macan",
+      "sales": 1,
+      "revenue": 59000.0
+    },
+    "Henderson": {
+      "model": "Cayenne",
+      "sales": 1,
+      "revenue": 78400.0
+    },
+    "Honolulu": {
+      "model": "911 Carrera S",
+      "sales": 1,
+      "revenue": 104600.0
+    },
+    "Houston": {
+      "model": "Cayenne Turbo GT",
+      "sales": 1,
+      "revenue": 188000.0
+    },
+    "Indianapolis": {
+      "model": "911 Carrera GTS",
+      "sales": 1,
+      "revenue": 119900.0
+    },
+    "Irvine": {
+      "model": "Macan Electric",
+      "sales": 1,
+      "revenue": 91300.0
+    },
+    "Irving": {
+      "model": "Cayenne Coupe",
+      "sales": 1,
+      "revenue": 111000.0
+    },
+    "Jacksonville": {
+      "model": "Macan T",
+      "sales": 1,
+      "revenue": 82000.0
+    },
+    "Jersey City": {
+      "model": "Cayenne S",
+      "sales": 1,
+      "revenue": 99950.0
+    },
+    "Kansas City": {
+      "model": "Panamera 4S",
+      "sales": 1,
+      "revenue": 112000.0
+    },
+    "Laredo": {
+      "model": "Taycan 4S",
+      "sales": 1,
+      "revenue": 131600.0
+    },
+    "Las Vegas": {
+      "model": "911 GT3",
+      "sales": 2,
+      "revenue": 473500.0
+    },
+    "Lexington": {
+      "model": "718 Spyder RS",
+      "sales": 1,
+      "revenue": 169000.0
+    },
+    "Lincoln": {
+      "model": "Taycan Turbo S",
+      "sales": 1,
+      "revenue": 218000.0
+    },
+    "Long Beach": {
+      "model": "718 Cayman",
+      "sales": 2,
+      "revenue": 141800.0
+    },
+    "Los Angeles": {
+      "model": "Taycan 4S",
+      "sales": 1,
+      "revenue": 121000.0
+    },
+    "Lubbock": {
+      "model": "911 Turbo S",
+      "sales": 1,
+      "revenue": 242000.0
+    },
+    "Madison": {
+      "model": "Cayenne E-Hybrid",
+      "sales": 1,
+      "revenue": 94300.0
+    },
+    "Mesa": {
+      "model": "Macan T",
+      "sales": 2,
+      "revenue": 146800.0
+    },
+    "Miami": {
+      "model": "Panamera 4",
+      "sales": 1,
+      "revenue": 104500.0
+    },
+    "Milwaukee": {
+      "model": "Taycan",
+      "sales": 1,
+      "revenue": 116900.0
+    },
+    "Minneapolis": {
+      "model": "911 Targa 4S",
+      "sales": 1,
+      "revenue": 158750.0
+    },
+    "Nashville": {
+      "model": "Cayenne S",
+      "sales": 1,
+      "revenue": 91300.0
+    },
+    "New Orleans": {
+      "model": "Macan Electric",
+      "sales": 2,
+      "revenue": 361400.0
+    },
+    "New York": {
+      "model": "911 Carrera S",
+      "sales": 1,
+      "revenue": 96300.0
+    },
+    "Newark": {
+      "model": "Panamera 4 E-Hybrid",
+      "sales": 1,
+      "revenue": 108500.0
+    },
+    "Norfolk": {
+      "model": "Macan T",
+      "sales": 1,
+      "revenue": 73200.0
+    },
+    "Oakland": {
+      "model": "911 Targa 4",
+      "sales": 2,
+      "revenue": 284500.0
+    },
+    "Omaha": {
+      "model": "718 Boxster",
+      "sales": 1,
+      "revenue": 74000.0
+    },
+    "Orlando": {
+      "model": "Macan",
+      "sales": 2,
+      "revenue": 185800.0
+    },
+    "Philadelphia": {
+      "model": "Panamera",
+      "sales": 1,
+      "revenue": 72000.0
+    },
+    "Phoenix": {
+      "model": "Macan GTS",
+      "sales": 2,
+      "revenue": 95108.75
+    },
+    "Pittsburgh": {
+      "model": "Taycan Cross Turismo",
+      "sales": 1,
+      "revenue": 127900.0
+    },
+    "Plano": {
+      "model": "718 Cayman GT4 RS",
+      "sales": 1,
+      "revenue": 176400.0
+    },
+    "Portland": {
+      "model": "718 Spyder RS",
+      "sales": 1,
+      "revenue": 164000.0
+    },
+    "Raleigh": {
+      "model": "Taycan GTS",
+      "sales": 1,
+      "revenue": 139000.0
+    },
+    "Reno": {
+      "model": "718 Boxster GTS",
+      "sales": 1,
+      "revenue": 91500.0
+    },
+    "Riverside": {
+      "model": "911 Dakar",
+      "sales": 1,
+      "revenue": 268900.0
+    },
+    "Sacramento": {
+      "model": "Cayenne S",
+      "sales": 1,
+      "revenue": 98200.0
+    },
+    "Salt Lake City": {
+      "model": "911 Dakar",
+      "sales": 1,
+      "revenue": 270000.0
+    },
+    "San Antonio": {
+      "model": "Macan Electric",
+      "sales": 1,
+      "revenue": 86500.0
+    },
+    "San Diego": {
+      "model": "Cayenne E-Hybrid",
+      "sales": 2,
+      "revenue": 214089.75
+    },
+    "San Francisco": {
+      "model": "Panamera 4S",
+      "sales": 1,
+      "revenue": 119000.0
+    },
+    "San Jose": {
+      "model": "Panamera Turbo S",
+      "sales": 2,
+      "revenue": 216500.0
+    },
+    "Scottsdale": {
+      "model": "Taycan",
+      "sales": 1,
+      "revenue": 119900.0
+    },
+    "Seattle": {
+      "model": "911 Turbo S",
+      "sales": 2,
+      "revenue": 313900.0
+    },
+    "St. Louis": {
+      "model": "Macan S",
+      "sales": 1,
+      "revenue": 66750.0
+    },
+    "Tampa": {
+      "model": "911 Carrera",
+      "sales": 2,
+      "revenue": 194300.0
+    },
+    "Toledo": {
+      "model": "718 Cayman S",
+      "sales": 1,
+      "revenue": 82750.0
+    },
+    "Tucson": {
+      "model": "Cayenne Coupe",
+      "sales": 1,
+      "revenue": 103.75
+    },
+    "Tulsa": {
+      "model": "Panamera",
+      "sales": 2,
+      "revenue": 209000.0
+    },
+    "Virginia Beach": {
+      "model": "Taycan 4S",
+      "sales": 1,
+      "revenue": 129000.0
+    },
+    "Wichita": {
+      "model": "Cayenne Turbo",
+      "sales": 2,
+      "revenue": 351600.0
+    }
+  },
+  "top5_models": {
+    "Cayenne Coupe": 4,
+    "Taycan 4S": 4,
+    "Cayenne E-Hybrid": 4,
+    "Panamera": 4,
+    "Macan Electric": 4
+  },
+  "top5_cities": {
+    "Atlanta": 3,
+    "Boston": 2,
+    "Seattle": 2,
+    "Austin": 2,
+    "Denver": 2
+  },
+  "top5_pay": {
+    "Wire Transfer": 12,
+    "Financing": 9,
+    "Bank Transfer": 8,
+    "Bank Wire": 7,
+    "Cash Payment": 7
+  },
+  "executive_summary": "As vendas concentram-se em Atlanta (3 unidades), Boston (2) e Seattle (2), representando 2% do volume total. O Cayenne Coupe lidera o mercado com 1% de participacao, seguido por modelos da familia SUV. Veiculos dos anos mais recentes (2022+) representam 27% das vendas, indicando preferencia por modelos atuais. As formas de pagamento mais utilizadas sao Wire Transfer e Financing, concentrando 7% das transacoes."
+}
