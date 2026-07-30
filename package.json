@@ -4,10 +4,11 @@
   "type": "module",
   "license": "MIT",
   "scripts": {
-  "dev": "vite",
-  "build": "cd client && vite build && xcopy /E /I /Y dist ..\\dist 2>nul || cp -r dist ../dist",
-  "build:full": "vite build && esbuild server/index.ts --platform=node --packages=external --bundle --format=esm --outdir=dist",
-  "preview": "vite preview"
+  "dev": "vite --host",
+  "build": "vite build",
+  "preview": "vite preview --host",
+  "check": "tsc --noEmit",
+  "format": "prettier --write ."
 },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",

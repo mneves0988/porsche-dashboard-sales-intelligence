@@ -1,5 +1,32 @@
-The input shows that only the `.gitignore` file itself was modified, with no other added or deleted files. Since there are no build artifacts, dependencies, or temporary files in the change list to consider for ignoring, and the modification was only to the `.gitignore` file itself, no additional rules need to be added.
+```
+# Dependencies
+node_modules/
 
-Based on rule #6, when the change list contains only source/config files (in this case, just the `.gitignore` file being modified) and no build artifacts, dependencies, or temp files, the output should be empty.
+# Build outputs
+dist/
+build/
+*.js.map
+*.ts.map
+*.mjs.map
 
-(nothing)
+# Environment variables
+.env
+.env.local
+*.env.*
+
+# Cache directories
+.cache/
+.vite/
+.vercel/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+```
