@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
   "dev": "vite",
-  "build": "cd client && vite build && xcopy /E /I /Y dist ..\\dist 2>nul || cp -r dist ../dist"
+  "build": "cd client && vite build && xcopy /E /I /Y dist ..\\dist 2>nul || cp -r dist ../dist",
   "build:full": "vite build && esbuild server/index.ts --platform=node --packages=external --bundle --format=esm --outdir=dist",
   "preview": "vite preview"
 },
